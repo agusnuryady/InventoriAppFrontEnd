@@ -10,7 +10,7 @@
 - [Contributors](#contributors)
 
 ## Related Project
-* <a href="https://github.com/agusnuryady/Backend-InterviewOnline">AdonisJs - Interviewers App RESTfull API</a>
+* <a href="https://github.com/agusnuryady/InventoriAppBackEnd">AdonisJs - Inventori App RESTfull API</a>
 
 ## Requirements
 * [`npm`](https://www.npmjs.com/get-npm)
